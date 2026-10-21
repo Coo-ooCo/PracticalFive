@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="municipalities_array">
+            <item>Beijing is the capital of China and a global center for politics, culture, and international relations. Known for its rich history, it features iconic landmarks such as the Forbidden City, the Great Wall, and the Temple of Heaven, blending ancient heritage with modern urban development.</item>
+            <item>Shanghai is a major global financial hub and the largest city in China by population. Located at the mouth of the Yangtze River, it is famous for its stunning skyline featuring the Oriental Pearl Tower and the Bund, reflecting its status as a cosmopolitan center of commerce and modern culture.</item>
+            <item>Chongqing is a major municipality in southwest China, known for its mountainous terrain and dramatic skyline along the Yangtze and Jialing rivers. It is a vital industrial and transportation hub, famous for its spicy hotpot cuisine, historic sites, and rapid economic growth in recent decades.</item>
+            <item>Tianjin is a major coastal municipality in northern China, serving as a key port and economic center for the Beijing-Tianjin-Hebei region. It is known for its blend of historic European-style architecture, modern industrial development, and landmarks like the Tianjin Eye ferris wheel.</item>
+    </string-array>
+</resources>
